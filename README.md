@@ -10,4 +10,5 @@ A가 5개, B가 6개, C가 4개, D가 7개로 골고루 분포되어 있습니�
 <br><br>
 # In-Class Homework Week 2 Day 1 #1 <br>
 ### 화면 출력 <br>
-![2주차 과제](https://user-images.githubusercontent.com/79893402/110407085-9f559c80-80c6-11eb-8684-7dab0dca1f61.png)
+![2주차](https://user-images.githubusercontent.com/79893402/110408222-91088000-80c8-11eb-81a2-939308d11424.png)
+
