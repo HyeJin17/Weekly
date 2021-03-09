@@ -8,4 +8,6 @@ A가 5개, B가 6개, C가 4개, D가 7개로 골고루 분포되어 있습니�
 ### 2. 안드로이드 스튜디오 <br>
   ![Hello](https://user-images.githubusercontent.com/79893402/110244357-b484db00-7fa1-11eb-980c-06ec91f2024f.png)
 <br>
+In-Class Homework Week 2 Day 1 #1 <br>
+### 화면 출력 <br>
 ![2주차 과제](https://user-images.githubusercontent.com/79893402/110407085-9f559c80-80c6-11eb-8684-7dab0dca1f61.png)
