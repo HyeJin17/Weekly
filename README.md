@@ -6,7 +6,7 @@ A가 5개, B가 6개, C가 4개, D가 7개로 골고루 분포되어 있습니�
 <br>가장 적은 비중을 차지하는 C는 감각적, 사교적, 외향적이라는 특성이 있는데 이 부분을 주의해서 앞으로의 프로젝트를 진행하겠습니다.
 <br><br>
 # In-Class Homework Week 1 Day 1 #2 <br>
-###  안드로이드 스튜디오 <br>
+### 안드로이드 스튜디오 <br>
  <img src = "https://user-images.githubusercontent.com/79893402/110244357-b484db00-7fa1-11eb-980c-06ec91f2024f.png" width = "550" height = "600"> 
 <br><br>
 # In-Class Homework Week 2 Day 1 #1 <br>
@@ -15,6 +15,6 @@ A가 5개, B가 6개, C가 4개, D가 7개로 골고루 분포되어 있습니�
 <br><br>
 # In-Class Homework Week 2 Day 2 #1 <br>
 ### 안드로이드 스튜디오와 깃허브 연동, 두번의 commit <br>
-<img src = "https://user-images.githubusercontent.com/79893402/110585589-5e3bb600-81b4-11eb-8c46-70a687a0f56b.png" width = "450" height = "500"> 
+<img src = "https://user-images.githubusercontent.com/79893402/110585589-5e3bb600-81b4-11eb-8c46-70a687a0f56b.png" width = "350" height = "350"> 
 <br>
-<img src = "https://user-images.githubusercontent.com/79893402/110585598-6267d380-81b4-11eb-92af-7fa092a6d863.png" width = "450" height = "500">
+<img src = "https://user-images.githubusercontent.com/79893402/110585598-6267d380-81b4-11eb-92af-7fa092a6d863.png" width = "350" height = "350">
