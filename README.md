@@ -11,12 +11,12 @@ A가 5개, B가 6개, C가 4개, D가 7개로 골고루 분포되어 있습니�
 <br><br>
 # In-Class Homework Week 2 Day 1 #1 <br>
 ### 화면출력<br>
-<img src = "https://user-images.githubusercontent.com/79893402/110408222-91088000-80c8-11eb-81a2-939308d11424.png" width = "550" height = "600"> 
+ <img src = "https://user-images.githubusercontent.com/79893402/110408222-91088000-80c8-11eb-81a2-939308d11424.png" width = "550" height = "600"> 
 <br><br>
 # In-Class Homework Week 2 Day 2 #1 <br>
 ### 안드로이드 스튜디오와 깃허브 연동, 두번의 commit <br>
-<img src = "https://user-images.githubusercontent.com/79893402/110585589-5e3bb600-81b4-11eb-8c46-70a687a0f56b.png" width = "650" height = "500"> 
+ <img src = "https://user-images.githubusercontent.com/79893402/110585589-5e3bb600-81b4-11eb-8c46-70a687a0f56b.png" width = "650" height = "500"> 
 <br>
-<img src = "https://user-images.githubusercontent.com/79893402/110585598-6267d380-81b4-11eb-92af-7fa092a6d863.png" width = "650" height = "500">
+ <img src = "https://user-images.githubusercontent.com/79893402/110585598-6267d380-81b4-11eb-92af-7fa092a6d863.png" width = "650" height = "500">
 
 
