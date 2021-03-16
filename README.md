@@ -21,5 +21,8 @@ A가 5개, B가 6개, C가 4개, D가 7개로 골고루 분포되어 있습니�
  <img src = "https://user-images.githubusercontent.com/79893402/110585589-5e3bb600-81b4-11eb-8c46-70a687a0f56b.png" width = "650" height = "500"> 
 <br>
  <img src = "https://user-images.githubusercontent.com/79893402/110585598-6267d380-81b4-11eb-92af-7fa092a6d863.png" width = "650" height = "500">
+<br><br>
 
-
+# In-Class Homework Week 3 Day 1 #1 <br>
+### 액티비티의 생명주기에 대한 설명 영상입니다.
+<br> https://youtu.be/58WBAazQGxU
